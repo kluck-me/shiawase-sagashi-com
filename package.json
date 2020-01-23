@@ -5,6 +5,7 @@
   "author": "Kluck <me@kluck.me>",
   "license": "MIT",
   "scripts": {
+    "build": "parcel build --public-url ./ src/index.html",
     "deploy": "gh-pages -d src"
   },
   "devDependencies": {
