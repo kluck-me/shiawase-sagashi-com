@@ -6,7 +6,7 @@
   "license": "MIT",
   "scripts": {
     "build": "parcel build --public-url ./ src/index.html",
-    "deploy": "gh-pages -d src"
+    "deploy": "gh-pages -d dist"
   },
   "devDependencies": {
     "gh-pages": "^2.2.0",
