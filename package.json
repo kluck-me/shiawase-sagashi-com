@@ -1,0 +1,7 @@
+{
+  "name": "shiawase-sagashi-com",
+  "private": true,
+  "main": "index.js",
+  "author": "Kluck <me@kluck.me>",
+  "license": "MIT"
+}
