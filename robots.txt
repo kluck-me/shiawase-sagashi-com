@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /a4.pdf
-Disallow: /2/index.html
-Disallow: /index2.html
