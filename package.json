@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Kluck <me@kluck.me>",
   "license": "MIT",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
   "devDependencies": {
     "gh-pages": "^2.2.0"
   }
